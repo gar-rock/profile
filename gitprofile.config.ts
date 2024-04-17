@@ -52,48 +52,51 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Portfolio of Garrison LeRock',
     description: '',
     imageURL: '',
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    linkedin: 'garrison-lerock/',
+    twitter: 'gar_rock',
+    mastodon: '',
     researchGate: '',
-    facebook: '',
-    instagram: '',
-    youtube: '', // example: 'pewdiepie'
+    facebook: 'garrison.lerock',
+    instagram: 'g_lerock',
+    youtube: 'GarrisonLeRock', // example: 'pewdiepie'
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: 'gar.rock',
+    dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://www.arifszn.com',
+    website: 'https://pass-share.com',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'gar.rock@hotmail.com',
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/1kj7UHZZ72G0fHd9TKLg48xVaATcJOBo4/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
     'JavaScript',
-    'React.js',
     'Node.js',
-    'Nest.js',
     'MySQL',
     'PostgreSQL',
     'Git',
     'Docker',
-    'PHPUnit',
     'CSS',
     'Antd',
     'Tailwind',
+    'Bootstrap',
+    'Flask',
+    'Python',
+    'Java',
+    'Jinja',
+    'Terraform',
+    'AWS',
+    ''
   ],
   experiences: [
     {
