@@ -33,21 +33,13 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'Pass-Share.com',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Pass-Share enables secure sharing of sensitive information, such as passwords, bank details, and secrets, with a friend. This fully encrypted service prioritizes privacy by abstaining from storing any plain-text data. Decryption capability is exclusively granted to the recipient, ensuring heightened confidentiality. Additionally, Pass-Share offers the convenience of instantly generating pseudo-random, multi-character class passwords directly within the browser.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
-        },
-        {
-          title: 'Project Name',
-          description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-          imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
-        },
+            'https://media.me-cuisine.com/logo/ps_logo_6.png',
+          link: 'https://pass-share.com/',
+        }
       ],
     },
   },
