@@ -53,8 +53,8 @@ const CONFIG = {
   },
   seo: {
     title: 'Portfolio of Garrison LeRock',
-    description: '',
-    imageURL: '',
+    description: 'View projects and contributions that Garrison LeRock has made to the dev community!',
+    imageURL: 'https://icons8.com/icon/121324/resume',
   },
   social: {
     linkedin: 'garrison-lerock/',
@@ -100,19 +100,26 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'Koch Industries',
+      position: 'Cyber Security Engineer',
+      from: 'January 2022',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://kochind.com',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Koch Global Services',
+      position: 'Network Security Engineer',
+      from: 'July 2021',
+      to: 'December 2021',
+      companyLink: 'https://kochind.com',
     },
+    {
+      company: 'Koch Business Soultions',
+      position: 'Network Security Analyst',
+      from: 'May 2016',
+      to: 'June 2021',
+      companyLink: 'https://kochind.com',
+    }
   ],
   certifications: [
     {
@@ -124,17 +131,11 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
-    },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
-    },
+      institution: 'University Of Oklahoma',
+      degree: 'Computer Engineering, BS',
+      from: '2013',
+      to: '2018',
+    }
   ],
   publications: [
     {
