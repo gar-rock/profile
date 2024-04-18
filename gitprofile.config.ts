@@ -79,7 +79,6 @@ const CONFIG = {
     'Git',
     'Docker',
     'CSS',
-    'Antd',
     'Tailwind',
     'Bootstrap',
     'Flask',
@@ -88,7 +87,9 @@ const CONFIG = {
     'Jinja',
     'Terraform',
     'AWS',
-    ''
+    'Firewall',
+    'Networking',
+    'GRC'
   ],
   experiences: [
     {
@@ -112,14 +113,6 @@ const CONFIG = {
       to: 'June 2021',
       companyLink: 'https://kochind.com',
     }
-  ],
-  certifications: [
-    {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
-    },
   ],
   educations: [
     {
