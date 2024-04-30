@@ -31,6 +31,7 @@ const CONFIG = {
     external: {
       header: 'My Projects',
       // To hide the `External Projects` section, keep it empty.
+      https://gar-rock.github.io/dev-sec-wiki/
       projects: [
         {
           title: 'Pass-Share.com',
@@ -39,6 +40,23 @@ const CONFIG = {
           imageUrl:
             'https://media.me-cuisine.com/logo/ps_logo_6.png',
           link: 'https://pass-share.com/',
+        },
+         {
+          title: 'Security Developer Wiki',
+          description:
+            'This wiki is a repo of knowledge docs that represents a standard toolkit for any cyber security professional, with a slight lean towards developers and automation engineers.',
+          imageUrl:
+            'https://icons8.com/icon/rl0sIZNchpNB/cyber-security',
+          link: 'https://gar-rock.github.io/dev-sec-wiki/',
+        }
+        ,
+         {
+          title: 'LeRock-Summits',
+          description:
+            'LeRock-Summits is a blog that we started to keep track of our ongoing high pointing adventures. The main members of this groups are Gary, Garrison, Victor LeRock and Adam Dunn. There are many other that have joined us on various trips, and their stories can be found in here as well. Enjoy learning about our journey as we describe our stuggles, lessons learned, and memories made.',
+          imageUrl:
+            'https://icons8.com/icon/XmZedKb7r3lU/autumn-landscape',
+          link: 'https://gar-rock.github.io/lerock-summits/',
         }
       ],
     },
