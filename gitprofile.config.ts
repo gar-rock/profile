@@ -31,7 +31,7 @@ const CONFIG = {
     external: {
       header: 'My Projects',
       // To hide the `External Projects` section, keep it empty.
-      https://gar-rock.github.io/dev-sec-wiki/
+      // https://gar-rock.github.io/dev-sec-wiki/
       projects: [
         {
           title: 'Pass-Share.com',
