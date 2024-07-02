@@ -33,6 +33,14 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       // https://gar-rock.github.io/dev-sec-wiki/
       projects: [
+         {
+          title: 'PostMeld.com',
+          description:
+            'Here at PostMeld we have improved the candidate hiring process by focusing on technology, innovation, and saving you time. Be ready for your next role with our automated interview tool!',
+          imageUrl:
+            'https://demo.postmeld.com/static/img/icons8-handshake-80.png',
+          link: 'https://demo.postmeld.com/',
+        },
         {
           title: 'Pass-Share.com',
           description:
