@@ -42,7 +42,7 @@ const CONFIG = {
           link: 'https://demo.postmeld.com/',
         }, 
 {
-          title: 'SecurityCensure.com,
+          title: 'SecurityCensure.com',
           description:
             'Security Censure is a tool used for security practitioners and researchers to kickstart their projects with easy to ingest data sets',imageUrl:'http://securitycensure.com/cisa.jpg',
 
